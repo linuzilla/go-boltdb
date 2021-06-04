@@ -1,4 +1,4 @@
-package db_bolt
+package dbBolt
 
 type BoltModel interface {
 	PrimaryKey() string

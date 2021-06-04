@@ -1,4 +1,4 @@
-package db_bolt
+package dbBolt
 
 import (
 	"encoding/json"
